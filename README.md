@@ -1,0 +1,1 @@
+# stockscope.aiV2
